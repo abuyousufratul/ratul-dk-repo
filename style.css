@@ -1,13 +1,28 @@
-body{
-   
-        font-family: "Jersey 10 Charted", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-}
-h1{
-    font-size:50px;
-}
-.Abid{
+body {
 
-    color:darkblue;
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.Abid {
+
+    color: darkblue;
+}
+
+section {
+    display: flex;
+}
+
+.ra {
+    width: 50%;
+}
+
+.ra img {
+    width: 500px;
 }
