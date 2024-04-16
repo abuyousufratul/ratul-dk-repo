@@ -15,7 +15,7 @@ h1 {
     color: darkblue;
 }
 
-section {
+.ex {
     display: flex;
     margin-bottom: 50px;
 }
@@ -42,3 +42,6 @@ a {
 img {
     width: 50%;
 }
+
+h3 {
+    color: darkgoldenrod;
