@@ -18,6 +18,7 @@ h1 {
 .ex {
     display: flex;
     margin-bottom: 50px;
+
 }
 
 
@@ -43,5 +44,35 @@ img {
     width: 50%;
 }
 
-h3 {
-    color: darkgoldenrod;
+
+
+
+#ju {
+    box-shadow: 10px 10px 10px blueviolet;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 10px;
+    border-left: 10px solid;
+}
+
+.bu {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(rgb(0, 255, 85), rgb(0, 20, 197));
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: rgb(62, 12, 179);
+    font-weight: 400;
+    width: 250px;
+    height: 25px;
+    margin-left: 50px;
+    margin-top: 500px;
+
+}
+
+#k {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 250px;
+
+}
