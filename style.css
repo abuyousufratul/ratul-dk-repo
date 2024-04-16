@@ -19,6 +19,7 @@ section {
     display: flex;
 }
 
+
 .ra {
     width: 50%;
 }
@@ -34,4 +35,9 @@ a {
     border-radius: 5px;
     color: white;
     font-weight: 400;
+}
+
+.photo {
+    background-image: url(sr/photo.png);
+    background-repeat: no-repeat;
 }
