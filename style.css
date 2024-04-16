@@ -17,6 +17,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 
@@ -40,4 +41,8 @@ a {
 .photo {
     background-image: url(sr/photo.png);
     background-repeat: no-repeat;
+}
+
+img {
+    width: 50%;
 }
