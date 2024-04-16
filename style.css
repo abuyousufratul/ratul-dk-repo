@@ -26,3 +26,12 @@ section {
 .ra img {
     width: 500px;
 }
+
+a {
+    text-decoration: none;
+    background-image: -moz-linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+}
